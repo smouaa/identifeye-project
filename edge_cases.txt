@@ -1,0 +1,7 @@
+ADD PATIENT 123 John Doe
+ADD EXAM 123 456
+ADD PATIENT 123 John Doe  
+ADD EXAM 123 789
+DEL PATIENT 456            
+DEL EXAM 123               
+DEL EXAM 999              
